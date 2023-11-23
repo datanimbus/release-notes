@@ -1,0 +1,136 @@
+[
+	{
+		"title": "Summary",
+		"data": [
+			"This is a summary of the release notes.",
+			"Here is another line.",
+			"This is a third line."
+		]
+	},
+	{
+		"title": "Stories",
+		"table": {
+			"headers": [
+				"ID",
+				"Summary"
+			],
+			"data": [
+				[
+					"DS-1001",
+					"This is the content of story 1."
+				],
+				[
+					"DS-1002",
+					"This is the content of story 2."
+				]
+			]
+		}
+	},
+	{
+		"title": "Components",
+		"table": {
+			"headers": [
+				"Module",
+				"Name",
+				"Version"
+			],
+			"data": [
+				[
+					"PROXY",
+					"Proxy",
+					"2.7.3"
+				],
+				[
+					"GW",
+					"Gateway",
+					"2.7.3"
+				],
+				[
+					"USER",
+					"User Manager",
+					"2.7.3"
+				],
+				[
+					"SM",
+					"Service Manager",
+					"2.7.3"
+				],
+				[
+					"BM",
+					"B2B Manager",
+					"2.7.3"
+				],
+				[
+					"MON",
+					"Monitoring",
+					"2.7.3"
+				],
+				[
+					"NE",
+					"Notification Engine",
+					"2.7.3"
+				],
+				[
+					"COMMON",
+					"Common",
+					"2.7.3"
+				]
+			]
+		}
+	},
+	{
+		"title": "Images released",
+		"table": {
+			"headers": [
+				"Image",
+				"Version"
+			],
+			"data": [
+				[
+					"datanimbus.io.proxy",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.gw",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.user",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.sm",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.base",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.bm",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.b2b.base",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.faas.base",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.mon",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.ne",
+					"2.7.3"
+				],
+				[
+					"datanimbus.io.common",
+					"2.7.3"
+				]
+			]
+		}
+	}
+]
